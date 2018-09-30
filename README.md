@@ -1,3 +1,3 @@
 # React Youtube Search
 
-[Demo](https://rkrishn.github.io/ReactYoutubeSearch/)
+[rkrishn.github.io/youtube](https://rkrishn.github.io/ReactYoutubeSearch/)
